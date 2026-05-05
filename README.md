@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img width="1586" height="992" alt="웹페이지" src="https://github.com/user-attachments/assets/9b8cb13f-a3ff-4878-a41a-6d3bf1cc2af6" />
@@ -8,11 +9,12 @@
 서울시립대학교 소프트웨어공학 해커톤 결과물 기반<br/>
 **Spring Boot + Next.js**로 구현한 모바일 친화형 카페/브랜드 웹 서비스
 
-**개발 기간(핵심 구현): 해커톤 1일 집중 개발**
+**개발 기간(핵심 구현): 2025.03.21 ~ 2025.03.22 해커톤 1일 집중 개발**
 
 </div>
 
 > 🏆 **해커톤 2등 수상** — 해커톤 결과물의 디자인·구조가 실제 협업 기업 웹사이트 제작에 레퍼런스로 활용됨 → **[freewhale.co.kr](https://www.freewhale.co.kr)**
+[[이노베이션아카데미] 2025 수요기반 해커톤 우수상_제IA2025-006호.pdf](https://github.com/user-attachments/files/27411364/2025._.IA2025-006.pdf)
 
 ---
 
