@@ -14,7 +14,7 @@
 </div>
 
 > 🏆 **해커톤 2등 수상** — 해커톤 결과물의 디자인·구조가 실제 협업 기업 웹사이트 제작에 레퍼런스로 활용됨 → **[freewhale.co.kr](https://www.freewhale.co.kr)**
-[[이노베이션아카데미] 2025 수요기반 해커톤 우수상_제IA2025-006호.pdf](https://github.com/user-attachments/files/27411364/2025._.IA2025-006.pdf)
+
 
 ---
 
